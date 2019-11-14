@@ -1,2 +1,2 @@
 # hello-world
-The first repository mde
+The first repository made
